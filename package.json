@@ -1,0 +1,24 @@
+{
+  "name": "travel-planner-app",
+  "version": "1.0.0",
+  "description": "Agentic Travel Planner - AI-powered travel itinerary generator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "cd frontend && npm run build",
+    "dev": "cd frontend && npm run dev",
+    "app": "npm run build && npm start"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": [
+    "travel",
+    "planner",
+    "ai",
+    "itinerary",
+    "gemini"
+  ],
+  "author": "Agentic Travel Planner Team",
+  "license": "MIT"
+}
