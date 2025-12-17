@@ -233,6 +233,8 @@ This project also includes a React Native mobile app version that can be install
 4. Scan the QR code with Expo Go on your mobile device
 
 See `TravelPlannerMobile/MOBILE_APP_README.md` for more detailed instructions on using the mobile version.
+note that you need to add your device IP address to the .env file for the mobile app to run
+
 
 ## Contributing
 
